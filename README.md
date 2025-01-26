@@ -1,7 +1,14 @@
-## Hi there 👋
+## **Hi there!**
+
+My nickname is komang, and I am an android developer and an app designer.
+
+<br/>
+
 ### Stat
-![komangabiw's GitHub stats](https://github-readme-stats.vercel.app/api?username=komangabiw&show_icons=true&theme=jolly)
-[![Top Langs]](https://github-readme-stats.vercel.app/api/top-langs/?username=komangabiw&layout=compact)
+
+![AyagiKei's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayagikei&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats-git-master-ayagikei.vercel.app/api/top-langs/?username=AyagiKei&count_private=true&langs_count=8&hide=html,javascript,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **komangabiw/komangabiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
